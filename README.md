@@ -1,4 +1,4 @@
-i might have a website at [https://swomf.codeberg.page](https://swomf.codeberg.page) <br />
-and perhaps a [codeberg account](https://codeberg.org/swomf)</a>
+i might have a math stuff website at [swomf.com](swomf.com) <br />
+and perhaps a Gentoo thing at [funroll.swomf.com](https://funroll.swomf.com)</a>
 
-send me an email at `swomf` dot proton dot me
+send me an email at `swomf` dot proton dot me.
